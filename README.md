@@ -1,5 +1,10 @@
 # uCard 3DTilt Project
 
+![Showcase](https://img.shields.io/badge/Showcase-uCard-brightgreen)
+![Self Development](https://img.shields.io/badge/Project-Self_Development-red)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+[![Working on](https://img.shields.io/badge/Working_on-Chrome-informational?logo=google-chrome&logoColor=white)](https://head0223.github.io/tilt-uCard/)
+
 Experience the enchanting world of uCard 3DTilt website featuring a captivating credit card design that can be tilted in every direction. Crafted with meticulous detail using three layers, the result is a visually stunning and immersive effect.
 
 ## Table of Contents
